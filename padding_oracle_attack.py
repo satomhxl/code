@@ -1,11 +1,6 @@
 from oracle import *
 import sys
 
-'''
-Assignment 3
-Padding-oracle attack.
-'''
-
 def xor(a, b):     # xor two arrays of same lengths
 	return [x^y for (x, y) in zip(a, b)]
 
