@@ -1,3 +1,4 @@
+# 跑出结果的时间从零点几秒到几十秒不等。。不能算是个合格的答案。第一次拍的时候直接0.1秒出答案吓我一跳。。
 import hashlib
 import itertools
 import time
